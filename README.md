@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... please don't i am not good in programming. for now i am just working on myself trying to learn webdevelopment and other things . 
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...i am elon musk of unfinished projects 
+- ⚡ Fun fact: ...
 
 <!---
 surajsays/surajsays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
