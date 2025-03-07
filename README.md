@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...i dont know .
 - 🌱 I’m currently learning rust and trying to learn dioxus and tauri for safe and cross platform applications 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... please don't i am not good in programming. for now i am just working on myself trying to learn webdevelopment and other things . 
+- 📫 How to reach me ... . 
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 
