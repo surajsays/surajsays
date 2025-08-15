@@ -16,5 +16,12 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajsays&layout=compact&theme=tokyonight&border_radius=10)
 
 ---
-  
 
+| Date       | Happy | Successful | Learning | W-tour | Money   | Rating |
+|------------|-------|------------|---------|--------|---------|--------|
+| 2025-08-15 | Yes   | No         | Yes     | No     | kuch nahi hai bhai  | ⭐⭐⭐⭐   |
+
+
+| Date       | Happy | Successful | Learning | W-tour | Money   | Rating |
+|------------|-------|------------|---------|--------|---------|--------|
+| 2029-08-15 | -   | -        | -    | -     | -  |    |
