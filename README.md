@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Linux](https://img.shields.io/badge/Linux-Tux-333?logo=linux&logoColor=white)
 
-💻 <span style="background-color:#FF5733; padding:3px; border-radius:4px;">Linux</span> & computer nerd — good at tech stuff, bad at everything else.  
+💻 <span style="background-color:#FF5733; padding:3px; border-radius:4px;">Linux</span>  — good at tech stuff, bad at everything else.  
 ⚡ Currently hacking on <span style="background-color:#DE6E4B; padding:3px; border-radius:4px;">Rust</span>, Svelte, Tauri, and random projects.
 
 ---
